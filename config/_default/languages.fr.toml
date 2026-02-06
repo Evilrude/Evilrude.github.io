@@ -11,17 +11,17 @@ title = "Evilrude"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Un site de test de plus"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = "Your name here"
+   name = "Evilrude"
    email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   image = "img/ArbresBrume.jpg"
    imageQuality = 96
    headline = "I'm only human"
    bio = "A little bit about you"
-#   links = [
+   links = [{ github = "https://github.com/Evilrude" }]
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },

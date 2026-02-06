@@ -2,14 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Evilrude</title>
-    <link>//localhost:1313/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Evilrude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <managingEditor>youremail@example.com (Your name here)</managingEditor>
-    <webMaster>youremail@example.com (Your name here)</webMaster>
-    <copyright>© 2026 Your name here</copyright>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>youremail@example.com (Evilrude)</managingEditor>
+    <webMaster>youremail@example.com (Evilrude)</webMaster>
+    <copyright>© 2026 Evilrude</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ohelary</title>
+      <link>http://localhost:1313/authors/ohelary/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/authors/ohelary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smoon</title>
+      <link>http://localhost:1313/authors/smoon/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/authors/smoon/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

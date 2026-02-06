@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Evilrude</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Accueil on Evilrude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <managingEditor>youremail@example.com (Your name here)</managingEditor>
-    <webMaster>youremail@example.com (Your name here)</webMaster>
-    <copyright>© 2026 Your name here</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>youremail@example.com (Evilrude)</managingEditor>
+    <webMaster>youremail@example.com (Evilrude)</webMaster>
+    <copyright>© 2026 Evilrude</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Article 1</title>
+      <link>http://localhost:1313/posts/article1/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/posts/article1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/article1/featured.png" />
+    </item>
     
   </channel>
 </rss>
