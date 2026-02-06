@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space on Evilrude</title>
+    <link>//localhost:1313/tags/space/</link>
+    <description>Recent content in Space on Evilrude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>youremail@example.com (Your name here)</managingEditor>
+    <webMaster>youremail@example.com (Your name here)</webMaster>
+    <copyright>© 2026 Your name here</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>À propos</title>
+      <link>//localhost:1313/posts/_apropos/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Your name here)</author>
+      <guid>//localhost:1313/posts/_apropos/</guid>
+      <description>résumé</description>
+      
+    </item>
+    
+  </channel>
+</rss>
