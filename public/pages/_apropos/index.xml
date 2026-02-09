@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>À propos on Evilrude</title>
+    <link>http://localhost:1313/pages/_apropos/</link>
+    <description>Recent content in À propos on Evilrude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>youremail@example.com (Evilrude)</managingEditor>
+    <webMaster>youremail@example.com (Evilrude)</webMaster>
+    <copyright>© 2026 Evilrude</copyright>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pages/_apropos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Axes</title>
+      <link>http://localhost:1313/pages/_apropos/2_axes/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/pages/_apropos/2_axes/</guid>
+      <description>summary de la page Axes</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pages/_apropos/2_axes/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Partenaires</title>
+      <link>http://localhost:1313/pages/_apropos/3_partenaires/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/pages/_apropos/3_partenaires/</guid>
+      <description>summary de la page Partenaires</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pages/_apropos/3_partenaires/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Projet</title>
+      <link>http://localhost:1313/pages/_apropos/1_projet/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/pages/_apropos/1_projet/</guid>
+      <description>summary de la page projet</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pages/_apropos/1_projet/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

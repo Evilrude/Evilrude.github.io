@@ -11,41 +11,91 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "À propos"
+  pageRef = "pages/_Apropos"
+  weight = 1
+
+[[main]]
+  name = "Projet"
+  parent = "À propos"
+  pageRef = "pages/_Apropos/1_Projet"
+  weight = 11
+
+[[main]]
+  name = "Axes"
+  parent = "À propos"
+  pageRef = "pages/_Apropos/2_Axes"
+  weight = 12
+
+[[main]]
+  name = "Partenaires"
+  parent = "À propos"
+  pageRef = "pages/_Apropos/3_Partenaires"
+  weight = 13
+
+[[main]]
+  name = "MSHB"
+  url = "https://www.mshb.fr/"
+  weight = 131
+
+
+[[main]]
+  name = "Événements"
+  pageRef = "pages/_Evenements"
+  weight = 2
+
+[[main]]
+  name = "Formations"
+  parent = "Événements"
+  pageRef = "categories/formations"
+  weight = 21
+
+[[main]]
+  name = "Séminaires"
+  parent = "Événements"
+  pageRef = "categories/séminaires"
+  weight = 22
+
+[[main]]
+  name = "Colloques et JE"
+  parent = "Événements"
+  pageRef = "categories/colloques-et-JE"
+  weight = 23
+
+[[main]]
+  name = "Documentation"
+  pageRef = "pages/_Documentation"
+  weight = 3
+
+[[main]]
+  name = "Écosystème"
+  parent = "Documentation"
+  pageRef = "categories/écosystème"
+  weight = 31
+
+[[main]]
+  name = "Démarches"
+  parent = "Documentation"
+  pageRef = "categories/démarches"
+  weight = 32
+
+[[main]]
+  name = "Outils"
+  parent = "Documentation"
+  pageRef = "categories/outils"
+  weight = 33
+
+[[subnavigation]]
+  name = "Éthique et juridique"
+  pageRef = "tags/ethique-et-juridique"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[subnavigation]]
+  name = "Administratif"
+  pre = "github"
+  pageRef = "tags/administratif"
+  weight = 10
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
 
 #[[main]]
 #  name = "Tags"
@@ -58,10 +108,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
 
 # [[footer]]
 #   name = "Categories"

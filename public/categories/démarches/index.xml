@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Démarches on Evilrude</title>
+    <link>http://localhost:1313/categories/d%C3%A9marches/</link>
+    <description>Recent content in Démarches on Evilrude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>youremail@example.com (Evilrude)</managingEditor>
+    <webMaster>youremail@example.com (Evilrude)</webMaster>
+    <copyright>© 2026 Evilrude</copyright>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/d%C3%A9marches/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Labellisation MSHB</title>
+      <link>http://localhost:1313/posts/labellisation/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/posts/labellisation/</guid>
+      <description>Soumettre un dossier pour obtenir une labellisation par la MSHB</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/labellisation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>CER</title>
+      <link>http://localhost:1313/posts/cer/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/posts/cer/</guid>
+      <description>Soumettre un dossier au comité d&amp;rsquo;éthique de la recherche</description>
+      
+    </item>
+    
+  </channel>
+</rss>

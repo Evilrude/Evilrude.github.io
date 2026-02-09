@@ -1,12 +1,14 @@
-+++
-date = '2026-02-06'
-draft = false
-title = 'Accueil'
-+++
+---
+date: '2026-01-14'
+draft: false
+title: 'Accueil'
+---
+Lorem markdownum tolluntur armatus exstinctos occumbere `dvInstallDelete`
+saecula Aeson parvoque esse curribus nullum Paphon, parenti. Et das cumque
+emissi caede huic paucis leonis. A gemunt periclo in Aegides iuvat.
 
-Page d'accueil à remplir dans content/_index.md
+> Tyrios requiret sonitu ergo flectitur picto perfundit, sine nata est, videri
+> et *natas undis virgo*. [Lacum sanguine](#vidit-vivusque-ego-meritum), paelex,
+> excessitque plura digreditur in novus. *Poteram pulvere* tollere tulisse
+> Leucosiamque increvisse ignis vincula equorum exclamat.
 
-Tout le contenu du site est dans content. 
-Un fichier dont le nom commence par un "_" n'apparaîtra pas. 
-Pour associer une image à un post, il faut que l'image s'appelle "featured", le post "index" et qu'ils soient au même niveau
-Les articles d'un même dossier partageront la même image de couverture que celle de leur dossier parent (si l'index du parent ne commence pas par _)

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outils on Evilrude</title>
+    <link>http://localhost:1313/categories/outils/</link>
+    <description>Recent content in Outils on Evilrude</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>youremail@example.com (Evilrude)</managingEditor>
+    <webMaster>youremail@example.com (Evilrude)</webMaster>
+    <copyright>© 2026 Evilrude</copyright>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/outils/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Heurist</title>
+      <link>http://localhost:1313/posts/heurist/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/posts/heurist/</guid>
+      <description>summary Heurist</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/heurist/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
