@@ -31,5 +31,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/seminaire2/featured_phgvu307-autumn-7493439_1280.jpg" />
     </item>
     
+    <item>
+      <title>Séminaire 3</title>
+      <link>http://localhost:1313/posts/seminaire3/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Evilrude)</author>
+      <guid>http://localhost:1313/posts/seminaire3/</guid>
+      <description>summary séminaire 2</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/seminaire3/featured_phgvu307-autumn-7493439_1280.jpg" />
+    </item>
+    
   </channel>
 </rss>
