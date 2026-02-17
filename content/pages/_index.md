@@ -11,4 +11,4 @@ authors:
 showAuthorBadges: false
 ---
 
-Index des posts (premier niveau)
+**Index des posts (premier niveau)**
